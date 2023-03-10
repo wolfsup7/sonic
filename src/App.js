@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
 import './TicTacToe.css';
-import Game from './Game';
+import Game from './Game.js';
 
 class App extends Component {
 
